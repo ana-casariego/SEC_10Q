@@ -27,7 +27,7 @@ This project is currently in progress.
 
 - [ ] `edgar_10q` web scraper package 
   - [x] Add download.py module to download raw 10-q files from SEC EDGAR website
-  - [ ] Add cleaner.py module to perform text cleaning
+  - [x] Add cleaner.py module to perform text cleaning
   - [ ] Add sent_extract.py module to create dataframe that counts number of negative, positive, uncertain etc. words for file as 
   - [ ] Add ref.py module to scrape reference data (stock prices and Loughran-McDonald Sentiment Words) 
 - [ ] NLP Analysis
